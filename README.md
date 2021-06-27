@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Sai Girija Kumari
+- 👋 Hi, I’m Sai Girija Kumari V
 - 👀 I’m interested in Web Development and Python 
 - 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to do projects related to Web Development and Python 
